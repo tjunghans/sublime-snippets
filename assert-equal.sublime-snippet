@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[assert.equal($1, true);]]></content>
+	<tabTrigger>ass</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
