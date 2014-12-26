@@ -1,5 +1,5 @@
 <snippet>
 	<content><![CDATA[console.log($1);]]></content>
-	<tabTrigger>c</tabTrigger>
+	<tabTrigger>con</tabTrigger>
 	<scope>source.js</scope>
 </snippet>

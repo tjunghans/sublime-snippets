@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA["use strict;"]]></content>
+	<content><![CDATA['use strict;']]></content>
 	<tabTrigger>use</tabTrigger>
 	<scope>source.js</scope>
 </snippet>
