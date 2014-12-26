@@ -1,4 +1,4 @@
 sublime-snippets
 ================
 
-Sublime snippets I use
+[Sublime snippets](http://sublimetext.info/docs/en/extensibility/snippets.html) I use.
