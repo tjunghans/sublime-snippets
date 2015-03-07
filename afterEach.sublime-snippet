@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[afterEach(function () {
-    $1
+  $1
 });]]></content>
 	<tabTrigger>aft</tabTrigger>
 	<scope>source.js</scope>
